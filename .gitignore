@@ -1,6 +1,6 @@
 *.exe
 *.csproj
 *.user
-*.pdp
+*.pdb
 Properties/
 obj/
